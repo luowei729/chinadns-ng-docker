@@ -1,0 +1,40 @@
+name: Update list
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日 00:00 UTC
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install curl grep awk sort uniq
+
+      - name: Run update script
+        run: |
+          cd res
+          ./update-chnlist.sh
+          ./update-chnroute.sh
+          ./update-chnroute6.sh
+          ./update-gfwlist.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "your-email@example.com"  # 替换成你的邮箱
+          git config --global user.name "Your Name"  # 替换成你的用户名
+          git add chnlist.txt
+          git commit -m "Update chnlist.txt automatically" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
