@@ -142,6 +142,12 @@ zig build -Dtarget=riscv64-linux-musl
 
 ## Docker
 
+docker run -d \
+  -p 53:53/tcp \
+  -p 53:53/udp \
+  --restart unless-stopped \
+ghcr.io/luowei729/chinadns-ng-docker:latest
+
 因为要访问内核的 ipset/nftset，docker run 时请带上 `--privileged` 参数。
 
 请前往 [releases](https://github.com/zfl9/chinadns-ng/releases) 页面下载可执行文件（无依赖），cp 至目标容器，运行即可。
