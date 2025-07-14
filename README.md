@@ -142,15 +142,14 @@ zig build -Dtarget=riscv64-linux-musl
 
 ## Docker
 
-
+```shell
 docker run -d \
   -p 53:53/tcp \
   -p 53:53/udp \
   --name chinadns-ng-docker \
   --restart unless-stopped \
 ghcr.io/luowei729/chinadns-ng-docker:latest
-
-
+```
 
 
 因为要访问内核的 ipset/nftset，docker run 时请带上 `--privileged` 参数。
