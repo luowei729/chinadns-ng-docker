@@ -13,7 +13,7 @@ COPY /res/gfwlist.txt /chinadns/gfwlist.txt
 
 
 # 安装运行 app 需要的依赖库
-RUN apk update && apk add --no-cache libc6-compat && RUN apk add --no-cache ipset
+RUN apk update && apk add --no-cache libc6-compat && apk add --no-cache ipset
 
 # 设置启动命令：容器启动时执行你的程序
 CMD ["/chinadns/chinadns-ng", "-C", "/chinadns/chnroute.conf"]
