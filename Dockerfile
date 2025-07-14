@@ -10,6 +10,7 @@ RUN chmod +x /chinadns/chinadns-ng
 COPY chnroute.conf /chinadns/
 COPY /res/chnlist.txt /chinadns/chnlist.txt
 COPY /res/gfwlist.txt /chinadns/gfwlist.txt
+RUN apk add --no-cache ipset
 
 
 # 安装运行 app 需要的依赖库
