@@ -7,6 +7,8 @@ WORKDIR /chinadns
 # 将你的二进制文件和配置文件复制到容器中
 COPY chinadns-ng /chinadns/
 COPY chnroute.conf /chinadns/
+COPY /res/chnlist.txt /chinadns/chnlist.txt
+COPY /res/gfwlist.txt /chinadns/gfwlist.txt
 
 
 # 安装运行 app 需要的依赖库
