@@ -146,8 +146,9 @@ zig build -Dtarget=riscv64-linux-musl
 docker run -d \
   -p 53:53/tcp \
   -p 53:53/udp \
-  --name chinadns-ng-docker \
   --restart unless-stopped \
+ --name chinadns \
+  --privileged \
 ghcr.io/luowei729/chinadns-ng-docker:latest
 ```
 
