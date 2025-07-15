@@ -8,12 +8,18 @@ WORKDIR /chinadns
 COPY chinadns-ng /chinadns/
 RUN chmod +x /chinadns/chinadns-ng
 COPY chnroute.conf /chinadns/
-COPY /res/chnlist.txt /chinadns/chnlist.txt
-COPY /res/gfwlist.txt /chinadns/gfwlist.txt
+COPY res/chnlist.txt /chinadns/chnlist.txt
+COPY res/gfwlist.txt /chinadns/gfwlist.txt
+COPY res/chnroute.ipset /chinadns/chnroute.ipset
+COPY res/chnroute6.ipset /chinadns/chnroute6.ipset
 
 
 # 安装运行 app 需要的依赖库
 RUN apk update && apk add --no-cache libc6-compat && apk add --no-cache ipset
+
+# 添加 ipset 初始化命令
+RUN ipset -R < /chinadns/chnroute.ipset && \
+    ipset -R < /chinadns/chnroute6.ipset
 
 # 设置启动命令：容器启动时执行你的程序
 CMD ["/chinadns/chinadns-ng", "-C", "/chinadns/chnroute.conf"]
