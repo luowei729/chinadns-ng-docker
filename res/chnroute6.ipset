@@ -705,6 +705,7 @@ add chnroute6 2402:24c0::/32
 add chnroute6 2402:2540::/32
 add chnroute6 2402:2620::/32
 add chnroute6 2402:2640::/32
+add chnroute6 2402:2760::/32
 add chnroute6 2402:2a00::/32
 add chnroute6 2402:2b80::/32
 add chnroute6 2402:2bc0::/32
