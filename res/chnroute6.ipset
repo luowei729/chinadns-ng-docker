@@ -59,7 +59,6 @@ add chnroute6 2001:df3:3a80::/48
 add chnroute6 2001:df3:7440::/48
 add chnroute6 2001:df3:9a40::/48
 add chnroute6 2001:df3:a680::/48
-add chnroute6 2001:df3:b380::/48
 add chnroute6 2001:df3:c380::/48
 add chnroute6 2001:df3:c680::/48
 add chnroute6 2001:df3:d0c0::/48
@@ -712,6 +711,7 @@ add chnroute6 2402:2bc0::/32
 add chnroute6 2402:2ca0::/32
 add chnroute6 2402:2d00::/32
 add chnroute6 2402:2d80::/32
+add chnroute6 2402:2e60::/32
 add chnroute6 2402:2e80::/32
 add chnroute6 2402:2f40::/32
 add chnroute6 2402:3040::/32

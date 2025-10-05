@@ -3964,6 +3964,7 @@ add chnroute 123.242.0.0/17
 add chnroute 123.242.192.0/21
 add chnroute 123.244.0.0/14
 add chnroute 123.249.0.0/16
+add chnroute 123.253.52.0/23
 add chnroute 123.253.240.0/22
 add chnroute 123.254.96.0/21
 add chnroute 124.6.64.0/18
@@ -4739,6 +4740,7 @@ add chnroute 202.57.240.0/20
 add chnroute 202.58.0.0/24
 add chnroute 202.58.104.0/22
 add chnroute 202.58.112.0/22
+add chnroute 202.58.122.0/23
 add chnroute 202.59.0.0/23
 add chnroute 202.59.212.0/22
 add chnroute 202.59.236.0/24
