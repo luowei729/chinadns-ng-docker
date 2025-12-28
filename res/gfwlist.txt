@@ -219,6 +219,7 @@ alicejapan.co.jp
 aliengu.com
 alive.bar
 aljazeera.com
+aljazeera.net
 alkasir.com
 all4mom.org
 allcoin.com
@@ -1026,7 +1027,6 @@ chrome.com
 chromecast.com
 chromeexperiments.com
 chromestatus.com
-chromium.org
 chuang-yen.org
 chubold.com
 chubun.com
@@ -1295,7 +1295,6 @@ deja.com
 delcamp.net
 demo.unlock-music.dev
 demosisto.hk
-deno.dev
 depositphotos.com
 desc.se
 desipro.de
@@ -1365,7 +1364,6 @@ doc.new
 docker.com
 docker.io
 dockerstatus.com
-docs.deno.com
 docs.new
 doctorvoice.org
 documentingreality.com
@@ -1990,6 +1988,7 @@ gfsale.com
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 ggpht.com
 ggssl.com
 ghidra-sre.org
@@ -2791,6 +2790,7 @@ ismalltits.com
 ismprofessional.net
 isohunt.com
 israbox.com
+issues.chromium.org 
 issuu.com
 istars.co.nz
 istockphoto.com
@@ -3138,6 +3138,7 @@ lookpic.com
 looktoronto.com
 lotsawahouse.org
 lotuslight.org.tw
+lovart.ai
 lovetvshow.com
 lpsg.com
 lrfz.com
@@ -3523,6 +3524,7 @@ nekoslovakia.net
 nemesis2.qx.net
 neo-miracle.com
 neowin.net
+nephobox.com
 netalert.me
 netbirds.com
 netcolony.com
@@ -4614,12 +4616,14 @@ startpage.com
 startuplivingchina.com
 stat.gov.tw
 static-economist.com
+static.pocketcasts.com
 static.shemalez.com
 static01.nyt.com
 staticflickr.com
 stboy.net
 stc.com.sa
 steamcommunity.com
+steamladder.com
 steamstatic.com
 steel-storm.com
 steemit.com
