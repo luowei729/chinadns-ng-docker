@@ -407,7 +407,6 @@ add chnroute6 2401:d40::/32
 add chnroute6 2401:e00::/32
 add chnroute6 2401:1000::/32
 add chnroute6 2401:1160::/32
-add chnroute6 2401:11a0::/32
 add chnroute6 2401:11c0::/32
 add chnroute6 2401:1200::/32
 add chnroute6 2401:12c0::/32
@@ -736,6 +735,7 @@ add chnroute6 2402:43c0::/32
 add chnroute6 2402:4440::/32
 add chnroute6 2402:4500::/32
 add chnroute6 2402:4540::/32
+add chnroute6 2402:4820::/32
 add chnroute6 2402:4a00::/32
 add chnroute6 2402:4a40::/32
 add chnroute6 2402:4a80::/32
