@@ -87,6 +87,7 @@ abplive.com
 acast.com
 accountkit.com
 acevpn.com
+acg.mn
 acg.rip
 acg18.me
 acgbox.org
@@ -412,6 +413,7 @@ bl-doujinsouko.com
 blacked.com
 blackmagicdesign.com
 blackvpn.com
+bleepingcomputer.com
 blinkx.com
 blip.tv
 blockcast.it
@@ -535,6 +537,7 @@ bookdepository.com
 books.com.tw
 booktopia.com.au
 bookwalker.com.tw
+boomplay.com
 bootstrapcdn.com
 borgenmagazine.com
 botanwang.com
@@ -802,6 +805,7 @@ cn.theaustralian.com.au
 cn.uptodown.com
 cna.com.tw
 cnbbnews.wordpress.com
+cnbc.com
 cnbeta.com.tw
 cnd.org
 cnnews.chosun.com
@@ -881,6 +885,7 @@ csw.org.uk
 ct.org.tw
 ctinets.com
 ctinews.com
+ctinsider.com
 ctitv.com.tw
 ctowc.org
 cts.com.tw
@@ -1074,6 +1079,7 @@ ecfa.org.tw
 ecimg.tw
 economist.com
 edgecastcdn.net
+edigest.hk
 edubridge.com
 edx-cdn.org
 eesti.ee
@@ -1811,6 +1817,7 @@ hindustantimes.com
 hinet.net
 hitbtc.com
 hitomi.la
+hive.blog
 hiveon.net
 hk-pub.com
 hk.gradconnection.com
@@ -1985,6 +1992,7 @@ indiatoday.in
 indiemerch.com
 inews-api.tvb.com
 info-graf.fr
+infosec.exchange
 infura.io
 inherit.live
 initiativesforchina.org
@@ -2123,6 +2131,7 @@ kanshifang.com
 kantie.org
 kaotic.com
 karayou.com
+kathmandupost.com
 kawaiikawaii.jp
 kawase.com
 kb.monitorware.com
@@ -2197,6 +2206,7 @@ left21.hk
 legra.ph
 leisurepro.com
 lematin.ch
+lemonde.fr
 lenwhite.com
 lesoir.be
 letscorp.net
@@ -2209,6 +2219,7 @@ liaowangxizang.net
 liberal.org.hk
 libertysculpturepark.com
 libertytimes.com.tw
+libgen.is
 library-access.sk
 library.usc.cuhk.edu.hk
 libredd.it
@@ -2329,6 +2340,7 @@ meansys.com
 media.nu.nl
 mediachinese.com
 mediafreakcity.com
+mediamatters.org
 mediawiki.org
 medium.com
 meee.com.tw
@@ -2408,6 +2420,7 @@ mixx.com
 mizzmona.com
 mji.rip
 mjj.rip
+mjj.today
 mjlsh.usc.cuhk.edu.hk
 mlc.ai
 mlzs.work
@@ -2457,6 +2470,7 @@ mthruf.com
 mubi.com
 mullvad.net
 multiply.com
+music.amazon.com
 musixmatch.com
 muzi.com
 muzi.net
@@ -2530,10 +2544,12 @@ news1.kr
 news18.com
 newsancai.com
 newsblur.com
+newshub.co.nz
 newsmax.com
 newstamago.com
 newstapa.org
 newstatesman.com
+newstimes.com
 newsweek.com
 newtalk.tw
 newthuhole.com
@@ -2548,6 +2564,8 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+nfsc.press
+nfscofficial.com
 nftstorage.link
 nga.mil
 nhentai.net
@@ -2693,6 +2711,7 @@ oursteps.com.au
 ourtv.hk
 overcast.fm
 overdaily.org
+overdrive.com
 overplay.net
 oversea.istarshine.com
 ovpn.com
@@ -2744,6 +2763,7 @@ pekingduck.org
 pemulihan.or.id
 pen.io
 pendrivelinux.com
+penguin.com.au
 pentoy.hk
 peoplenews.tw
 peopo.org
@@ -3029,6 +3049,7 @@ rthk.org.hk
 rti.org.tw
 rti.tw
 rtm.tnt-ea.com
+rts.ch
 rule34.xxx
 rule34video.com
 rumble.com
@@ -3063,9 +3084,6 @@ savetibetstore.org
 saveuighur.org
 sbme.me
 sbti.unun.dev
-scache.vzw.com
-scache1.vzw.com
-scache2.vzw.com
 schema.org
 scmp.com
 scramble.io
@@ -3143,6 +3161,7 @@ simplecd.org
 simpleswap.io
 simplex.chat
 sina.com.hk
+sinchew.com.my
 singaporepools.com.sg
 singlelogin.se
 singtao.com
@@ -3246,7 +3265,6 @@ springwood.me
 sproutcore.com
 squirrelvpn.com
 ss-link.com
-ss7.vzw.com
 ssglobal.co
 ssl.webpack.de
 sspanel.net
@@ -3397,6 +3415,8 @@ tfhub.dev
 tfiflve.com
 tg-me.com
 tg.dev
+tgstat.com
+the-sun.com
 theatlantic.com
 theatrum-belli.com
 thebcomplex.com
@@ -3429,6 +3449,7 @@ thestandnews.com
 thetatoken.org
 thetibetpost.com
 thetvdb.com
+theweek.com
 thewgo.org
 thewirechina.com
 theync.com
@@ -3602,6 +3623,7 @@ tv.com
 tv.jtbc.joins.com
 tvbanywhere.com
 tvboxnow.com
+tvdy1.com
 tvunetworks.com
 tw-blog.com
 tw.jiepang.com
@@ -3687,6 +3709,7 @@ ulop.net
 ultrasurf.us
 ultravpn.com
 ultravpn.fr
+umap.openstreetmap.fr
 unblock-us.com
 unblock.cn.com
 unblockdmm.com
@@ -3808,6 +3831,7 @@ vod.wwe.com
 voicettank.org
 vot.org
 vovo2000.com
+vox.com
 voxer.com
 vpl.bibliocommons.com
 vpn.ac
@@ -3983,6 +4007,7 @@ work2icu.org
 workatruna.com
 workerempowerment.org
 workers.dev
+worldjournal.com
 worldvpn.net
 wowgirls.com
 wowhead.com
