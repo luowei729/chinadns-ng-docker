@@ -4278,6 +4278,7 @@ add chnroute 160.202.212.0/22
 add chnroute 160.202.216.0/21
 add chnroute 160.202.224.0/19
 add chnroute 160.236.78.0/23
+add chnroute 160.236.148.0/23
 add chnroute 160.250.14.0/23
 add chnroute 160.250.16.0/22
 add chnroute 160.250.24.0/23
