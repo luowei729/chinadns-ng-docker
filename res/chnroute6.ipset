@@ -781,7 +781,9 @@ add chnroute6 2402:6e80::/32
 add chnroute6 2402:6f40::/32
 add chnroute6 2402:6fc0::/32
 add chnroute6 2402:7040::/32
+add chnroute6 2402:7060::/32
 add chnroute6 2402:7080::/32
+add chnroute6 2402:70a0::/29
 add chnroute6 2402:70c0::/32
 add chnroute6 2402:7140::/32
 add chnroute6 2402:71c0::/32
