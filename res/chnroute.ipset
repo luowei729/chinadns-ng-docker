@@ -4087,6 +4087,8 @@ add chnroute 140.248.33.2/31
 add chnroute 140.249.0.0/16
 add chnroute 140.250.0.0/16
 add chnroute 140.255.0.0/16
+add chnroute 141.229.14.0/23
+add chnroute 141.229.20.0/23
 add chnroute 142.70.0.0/16
 add chnroute 142.86.0.0/16
 add chnroute 143.64.0.0/16
